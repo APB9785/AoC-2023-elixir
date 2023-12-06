@@ -1,7 +1,7 @@
 defmodule Advent2023.Day01 do
   @moduledoc false
 
-  @input Advent2023.Helpers.get_input_for_day(1)
+  @input Advent2023.get_input_for_day(1)
   @numbers ~w(1 2 3 4 5 6 7 8 9 0)
 
   def part_1 do

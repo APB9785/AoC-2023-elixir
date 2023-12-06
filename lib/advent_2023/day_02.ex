@@ -1,7 +1,7 @@
 defmodule Advent2023.Day02 do
   @moduledoc false
 
-  @input Advent2023.Helpers.get_input_for_day(2)
+  @input Advent2023.get_input_for_day(2)
   @limits %{red: 12, green: 13, blue: 14}
 
   def part_1(input \\ @input) do
