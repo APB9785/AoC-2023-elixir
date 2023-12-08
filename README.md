@@ -18,3 +18,6 @@ Part 2: Drastically increases input range;  must efficiently search for the idea
 
 ### Day 6
 Simple 1-D distance calculations
+
+### Day 7
+Poker hand sorting & scoring
