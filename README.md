@@ -25,3 +25,6 @@ Poker hand sorting & scoring
 ### Day 8
 Part 1: Parse a digraph and traverse it  
 Part 2: Calculate the length of cycles in the graph
+
+### Day 9
+Predict the next number in a sequence of integers
