@@ -28,3 +28,7 @@ Part 2: Calculate the length of cycles in the graph
 
 ### Day 9
 Predict the next number in a sequence of integers
+
+### Day 10
+Part 1: Path walking in Euclidean space  
+Part 2: Finding the area bounded by the path
