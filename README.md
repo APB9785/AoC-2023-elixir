@@ -32,3 +32,7 @@ Predict the next number in a sequence of integers
 ### Day 10
 Part 1: Path walking in Euclidean space  
 Part 2: Finding the area bounded by the path
+
+### Day 11
+Part 1: 2-D grid parsing, Manhattan distance  
+Part 2: Count path intersection points
